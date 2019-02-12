@@ -186,6 +186,13 @@
 // console.log(myArray);
 
 // 10.2
+
+// if (+Infinity !== -Infinity) {
+//     console.log("true")
+// } else {
+//     console.log("false")
+// }
+
 // 6/0 === 10/0;
 
 // let y1 = 6/0;
